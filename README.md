@@ -53,7 +53,7 @@ To set up ChatPDF Clone, follow these steps:
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies.
    ```bash
-   cd ChatPDF-Clone
+   cd ChatPDF-Clone/project
    pip install -r requirements.txt
    ```
 
