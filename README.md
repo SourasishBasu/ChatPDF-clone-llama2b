@@ -59,10 +59,11 @@ To set up ChatPDF Clone, follow these steps:
 
 3. **Configure Credentials**: Add the GradientAI credentials as environment variables to your project environment. Copy the `Secure-Connect-Bundle.zip` and `app-token.json` into the project root directory.
 
-## Google Colab Setup
+## Open in Google Colab
 
 Click to open the Notebook directly in Google Colab. Configure the access tokens under the Secrets section and upload PDFs into the Documents folder.
 
+<p><a href="https://colab.research.google.com/github/SourasishBasu/ChatPDF-clone-llama2b/blob/main/ChatPDF_Clone.ipynb" target="_blank"><img height="30" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></p>
 
 # Usage
 
